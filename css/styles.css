@@ -1,0 +1,60 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #bdbdbd;
+}
+.dropdown-menu{
+    background-color: #7a7a7b5e;
+}
+.encabezado {
+    background-image: url(../img/encabezado3.jpg);
+    background-position:  center;
+
+}
+
+
+#catalogo{
+    background-color: rgba(0, 0, 0, 0.181);
+    display: flex;
+    height: 100px;
+}
+
+.card{
+    border: 5px;
+    width: 230px;
+    background-color: rgb(0, 0, 0);
+    color: azure;
+    margin-right: 5px;
+}
+
+.enlace {
+    color: 	#D4AF37;
+    font-size: 25px;
+    font-family: 'Abril Fatface', cursive;
+    
+}
+.enlace2 {
+    font-size: 25px;
+    font-family: "Kdam Thmor Pro", sans-serif;
+}
+
+footer {
+    display: flex;
+    background-color: #7a7a7b;
+    padding: 28px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+footer img {
+    height: 50px;
+    width: 50px;
+}
+footer p {
+    font-weight: 600;
+}
+
+    .footerlogo {
+    display: flex;
+    gap: 30px;
+}
